@@ -1,4 +1,4 @@
-<h4 align="left">A computer engineer and software developer from Turkey</h3>
+<h3 align="left">A computer engineer and software developer from Turkey</h3>
 
 <h3 align="left">Connect with me: myzk@outlook.com.tr</h3>
 <p align="left">
