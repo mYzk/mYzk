@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I'm iOS Developer and Computer Engineer in Turkey.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: myzk@outlook.com.tr</h3>
 <p align="left">
 </p>
 
